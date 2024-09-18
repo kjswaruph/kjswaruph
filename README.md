@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Swaruph.</h2>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Spring
 - 😄 Pronouns: He/Him
