@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Swaruph.</h2>
 
-- 🔭 I’m currently working on ... <br>
+- 🔭 I’m currently working on linsynx project <br>
 - 🌱 I’m currently learning Spring <br>
 - 😄 Pronouns: He/Him <br>
 
