@@ -2,11 +2,11 @@
 
 <table>
 	<tr>
-        <td valign="top">
-			I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy building applications while actively contributing to open source projects. Currently, I'm working on <b>cmdzen</b>.
+	    <td width="60%" align="center" valign="top">
+			<img src="./github-metrics.svg" alt="metrics" style="width:100%; max-width:600px; min-width:200px;"/>
 		</td>
-		<td width="280px" align="center" valign="top">
-			<img src="./github-metrics.svg" alt="metrics" width="260px"/>
+		<td width="40%" valign="top">
+			I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy building applications while actively contributing to open source projects. Currently, I'm working on <b>cmdzen</b>.
 		</td>
 	</tr>
 </table>
