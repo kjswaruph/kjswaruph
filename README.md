@@ -1,6 +1,15 @@
 # Hello 👋
 
-I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy crafting efficient and maintainable software solutions while actively contributing to open source projects. Currently, I'm working on **cmdzen**.
+<table>
+	<tr>
+        <td valign="top">
+			I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy building applications while actively contributing to open source projects. Currently, I'm working on <b>cmdzen</b>.
+		</td>
+		<td width="280px" align="center" valign="top">
+			<img src="./github-metrics.svg" alt="metrics" width="260px"/>
+		</td>
+	</tr>
+</table>
 
 ## Languages & Tools
 
@@ -51,3 +60,9 @@ I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux e
 <a href="https://isocpp.org/"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/></a>
 
 </p>
+
+<br clear="left"/>
+
+## Languages activity
+
+![Languages](./metrics_languages.svg)
