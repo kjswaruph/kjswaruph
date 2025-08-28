@@ -12,8 +12,7 @@ I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux e
 
 <a href="https://maven.apache.org/"><img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/></a>
 
-<a href="https://gradle.org"><img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg
-"/></a>
+<a href="https://gradle.org"><img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/></a>
 
 <a href="https://www.mysql.com/"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></a>
 
