@@ -1,4 +1,4 @@
-# Hello! there 👋
+# Hello 👋
 
 I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy crafting efficient and maintainable software solutions while actively contributing to open source projects. Currently, I'm working on **cmdzen**.
 
