@@ -2,10 +2,10 @@
 
 <table>
 	<tr>
-	    <td width="60%" align="center" valign="top">
+	    <td width="50%" align="center" valign="top">
 			<img src="./github-metrics.svg" alt="metrics" style="width:100%; max-width:600px; min-width:200px;"/>
 		</td>
-		<td width="40%" valign="top">
+		<td width="50%" valign="top">
 			I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy building applications while actively contributing to open source projects. Currently, I'm working on <b>cmdzen</b>.
 		</td>
 	</tr>
