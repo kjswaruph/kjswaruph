@@ -7,6 +7,8 @@
 		</td>
 		<td width="50%" valign="top">
 			I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy building applications while actively contributing to open source projects. Currently, I'm working on <b>cmdzen</b>. 
+			<br>
+			<br><br><br>
 			<img src="metrics.plugin.languages.details.svg"/>
 		</td>
 	</tr>
