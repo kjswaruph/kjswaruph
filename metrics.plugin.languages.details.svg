@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.5459221160911" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="225.5459221160911" y="0" width="216.93460690668627" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.4805290227774" y="0" width="15.757041391133969" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.2375704139113" y="0" width="1.7624295860886603" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.08811046535865" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="222.08811046535865" y="0" width="220.76386862226818" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.85197908762683" y="0" width="15.422958583828764" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.2749376714556" y="0" width="1.7250623285443887" height="8" fill="#ecdebe"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                Java
                             </div>
                             <small>
-                                <div>230 kB</div>
-                                <div>49.03%</div>
+                                <div>231 kB</div>
+                                <div>48.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>16 kB</div>
-                                <div>3.43%</div>
+                                <div>3.35%</div>
                             </small>
                         </div>
                     </section>
@@ -57,13 +57,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Java
+                                TypeScript
                             </div>
                             <small>
-                                <div>221 kB</div>
-                                <div>47.16%</div>
+                                <div>230 kB</div>
+                                <div>47.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
