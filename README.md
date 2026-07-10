@@ -6,10 +6,8 @@
 			<img src="./github-metrics.svg" alt="metrics" style="width:100%; max-width:600px; min-width:200px;"/>
 		</td>
 		<td width="50%" valign="top">
-			I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy building applications while actively contributing to open source projects. Currently, I'm working on <b>cmdzen</b>. 
+			I'm Swaruph, a CSE student, Java developer, open source contributor, and Linux enthusiast. I enjoy building applications while actively contributing to open source projects. 
 			<br>
-			<br><br>
-			<img src="metrics.plugin.languages.details.svg"/>
 		</td>
 	</tr>
 </table>
